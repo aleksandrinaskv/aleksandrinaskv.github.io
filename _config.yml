@@ -55,7 +55,7 @@ linkedin: aleksandrina-skvortsova-4901a261
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-ORCID: aleksandrina-skvortsova-4901a261
+ORCID: 0000-0003-0512-0792
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
@@ -100,7 +100,7 @@ link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#084526"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#000000"
+footer-link-col: "#683387"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
