@@ -27,17 +27,25 @@ I am interested in how expectations and previous experiences influence health an
 **2011-2012** - Clinical Psychologist, Narva hospital, Estonia
 
 ### Education
+
 **2014-2019** - PhD in Psychology, Leiden University, the Netherlands
 
 **2012-2014** - Reaearch Master in Behavioural Sciences, Radboud University, the Netherlands
 
 ### Grants and Awards
+
 **2020** - [Rubicon grant](https://www.nwo.nl/en/calls/rubicon-enw-2020-2-enw), Dutch Research Council. A two-year fellowship for performing a research project abroad.
+
 **2019** - Best article award of the unit Health Medical and Neuropsychology of Leiden University
+
 **2019** - Grant of The Netherlands Organisation for Health Research and Development (ZonMW) & The Dutch Diabetes Research Foundatio. Project Knowledge Exploration ‘Gender-, sex differences and diabetes’. PI: A.M.W. Evers. Role: co-applicant
+
 **2018** -	Grant of The Netherlands Organisation for Health Research and Development. Project “Conditioning of insulin responses. A high risk- high gain intervention for diabetes type-2”. PIs: A.M.W. Evers and H. Pijl. Role: lead researcher.  
+
 **2018**	- European Society for Cognitive and Affective Neuroscience, the 4th international conference, Best Poster Award
+
 **2017** - American Psychosomatic Society, APS Young Scholar Scholarship Award
+
 **2014** -		Honors Academy of Radboud University, Scholarship for performing international research project in the Center for Anxiety and Related disorders, Boston University, the USA
 
 ### Publications
