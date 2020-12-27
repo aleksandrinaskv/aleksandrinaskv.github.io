@@ -12,6 +12,7 @@ I am interested in how expectations and previous experiences influence health an
 - Classical conditioning of hormonal responses
 - Classical conditioning of pain and pain memory
 - Expectations manipulations aimed to improve treatment outcomes
+
 I truly believe that the power of our thought has enormous effects on our health. The goal of my research is to understand these effects and use them for improving the existing treatments and creating new ones. 
 In additoon to science, I am passionate about sports, yoga, dancing Lindy hop and reading. Also, I am a huge dog lover.
 
