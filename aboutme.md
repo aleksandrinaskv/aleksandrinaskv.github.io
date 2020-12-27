@@ -1,6 +1,9 @@
 ---
 layout: page
 title: About me
+share-title: Aleksandrina Skvortsova
+share-description: Health psychologist 
+share-img: /assets/img/photo.jpg
 ---
 
 My name is Aleksandrina. I am a postdoctoral researcher and a Rubicon fellow working in the Pain Genetics Lab of Mc Gill University.
