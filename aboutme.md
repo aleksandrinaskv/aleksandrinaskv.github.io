@@ -35,7 +35,7 @@ In additoon to science, I am passionate about sports, yoga, dancing Lindy hop an
 
 **2014-2019** - PhD in Psychology, Leiden University, the Netherlands
 
-**2012-2014** - Reaearch Master in Behavioural Sciences, Radboud University, the Netherlands
+**2012-2014** - Research Master in Behavioural Sciences, Radboud University, the Netherlands
 
 **2006 -2011** - Specialist in Clinical Psychology, Saint Petersburg State University, Russia
 
