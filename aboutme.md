@@ -37,6 +37,8 @@ In additoon to science, I am passionate about sports, yoga, dancing Lindy hop an
 
 **2012-2014** - Reaearch Master in Behavioural Sciences, Radboud University, the Netherlands
 
+**2006 -2011** - Specialist in Clinical Psychology, Saint Petersburg State University, Russia
+
 ### Grants and Awards
 
 **2020** - [Rubicon grant](https://www.nwo.nl/en/calls/rubicon-enw-2020-2-enw), Dutch Research Council. A two-year fellowship for performing a research project abroad.
